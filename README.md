@@ -3,8 +3,9 @@ Hotel chain Business
 
 **Project objective:** 
 
-    **1.** •	•	Developed a Power BI dashboard  _[Hospitality Domain Analysis](https://github.com/Niharika836/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ using 3 months of hotels and bookings data, pinpointing reasons for declining market share and revenue at Atliq Grands.
-    **1.** •	•	Provided actionable insights, for revenue recovery.
+    **1.** •	•	Developed a Power BI dashboard  _[Hospitality Domain Analysis](https://github.com/Niharika836/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ using 3 months of hotels and 
+                  bookings data, pinpointing reasons for declining market share and revenue at Atliq Grands.
+    **2.** •	•	Provided actionable insights, for revenue recovery.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
